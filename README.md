@@ -1,1 +1,2 @@
-# SpringBoot1
+# spring-boot-2-workshop
+Spring boot
